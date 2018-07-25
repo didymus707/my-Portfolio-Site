@@ -1,0 +1,39 @@
+@media screen and (min-width: 500px) {
+  .big, .my-designs, .hdr {
+  font-size: 1.8em;
+}
+
+.small {
+  font-size: 1.1em
+}
+
+.end {
+  font-size: 3em;
+}
+
+.end1 {
+  font-size: 2em;
+}
+}
+
+@media screen and (min-width: 800px) {
+  .gallery {
+    display: flex;
+  }
+
+.end {
+  font-size: 4em;
+}
+
+.end1 {
+  font-size: 2em;
+}
+}
+
+@media screen and (min-width: 1000px) {
+  .my-designs, .carousel {
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  } 

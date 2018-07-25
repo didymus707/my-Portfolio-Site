@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+  }
+
+  body {
+    width: 100%;
+    height: 100%;
+    font-family: Birch STD;
+  }
+
+
+.header{
+  box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.26);
+  min-height: 70px;
+  border-bottom: solid 3px #808080;
+  margin-right: 2px;
+  margin-bottom: 10px;
+}
+
+.inner {
+  width: 100%;
+  margin: auto;
+  padding: auto;
+}
+.header-logo {
+  float: left;
+  vertical-align: top;
+  height: 70px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.header-title{
+  display: block;
+  -webkit-text-fill-color: #708090;
+  text-align: right;
+  margin: 20px;
+  padding: 10px;
+}
+
+.big {
+  font-size: 1.2em;
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
+.small{
+  font-size: 0.7em;
+  font-variant: normal;
+}
+
+/* Make the image fully responsive */
+  .carousel-inner, .art {
+  margin-top: 30px;
+  width: 100%;
+  height: 100%;
+}
+
+.begin, .alc {
+  height: 100%;
+}
+
+.pics {
+  width: 100%;
+  height: auto;
+}
+
+
+.my-designs {
+  font-size: 1.2em;
+  -webkit-text-fill-color: #2a2c40;
+  margin: 30px 10px 10px 10px;
+  padding: 10px;
+  }
+
+.Featured-Work {
+  font-size: 1.6em;
+  text-align: left;
+}
+
+.gallery {
+  margin: 20px 0 0 0;
+  padding-top: 1em;
+}
+
+.didymus {
+  margin: 0 0 20px 0;
+}
+
+.galaxy {
+  margin: 0 0 20px 0;
+  padding-bottom: 1em;
+}
+
+.aenon {
+  margin: 0 0 20px 0;
+}
+
+.hdr {
+  margin-top: 16px;
+}
+
+footer {
+  margin: 40px;
+  font-variant: small-caps;
+  line-height: 1;
+  text-align: center;
+  -webkit-text-fill-color: #2a2c40;
+}
+
+.end{
+  font-size: 2.2em;
+}
+
+.end1 {
+  font-size: 1.7em;
+}
