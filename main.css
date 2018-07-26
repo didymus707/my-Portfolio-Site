@@ -64,6 +64,10 @@
   height: 100%;
 }
 
+.code, .acc, .abc {
+  -webkit-text-fill-color: #000000;
+}
+
 .pics {
   width: 100%;
   height: auto;
@@ -113,9 +117,9 @@ footer {
 }
 
 .end{
-  font-size: 2.2em;
+  font-size: 2em;
 }
 
 .end1 {
-  font-size: 1.7em;
+  font-size: 1.5em;
 }
