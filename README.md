@@ -5,4 +5,5 @@ This project contains an
 - A Stylesheet containing the designs for the HTML 
 - A responsive stylesheet containing sets of media queries for some breakpoints.
 ### Note
+Images in **Featured Work** are mine
 Images in the slides gotten from pexels.com
