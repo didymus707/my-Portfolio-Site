@@ -4,11 +4,11 @@
   }
 
   .big {
-    font-size: 1.1em;
+    font-size: 1em;
   }
   
   .small {
-    font-size: 0.6em;
+    font-size: 0.5em;
   }
   }
 
@@ -25,23 +25,23 @@
 
 @media screen and (min-width: 500px) {
   .header-logo {
-  height: 160px;
+  height: 120px;
   }
 
   .big, .my-designs, .hdr {
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 
 .small {
-  font-size: 1.1em
+  font-size: 0.8em;
 }
 
 .end {
-  font-size: 3em;
+  font-size: 2.7em;
 }
 
 .end1 {
-  font-size: 2em;
+  font-size: 1.6em;
 }
 }
 
