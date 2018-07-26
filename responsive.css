@@ -1,4 +1,33 @@
+@media screen and (min-width: 300px) {
+  .header-logo {
+    height: 105px;
+  }
+
+  .big {
+    font-size: 1.1em;
+  }
+  
+  .small {
+    font-size: 0.6em;
+  }
+  }
+
+@media screen and (min-width: 380px) {
+  .big {
+    font-size: 1.2em;
+  }
+  
+  .small {
+    font-size: 0.7em;
+  }
+  
+}
+
 @media screen and (min-width: 500px) {
+  .header-logo {
+  height: 160px;
+  }
+
   .big, .my-designs, .hdr {
   font-size: 1.8em;
 }

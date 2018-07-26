@@ -25,12 +25,17 @@
   margin: auto;
   padding: auto;
 }
+
 .header-logo {
   float: left;
-  vertical-align: top;
-  height: 70px;
+  height: 90px;
   margin-top: 10px;
   margin-left: 5px;
+}
+
+.header-img {
+  max-height: 100%;
+  max-width: 100%;
 }
 
 .header-title{
@@ -42,24 +47,20 @@
 }
 
 .big {
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: normal;
   font-variant: small-caps;
 }
 
 .small{
-  font-size: 0.7em;
+  font-size: 0.5em;
   font-variant: normal;
 }
 
 /* Make the image fully responsive */
-  .carousel-inner, .art {
+  .carousel-inner, .begin, .art, .alc {
   margin-top: 30px;
   width: 100%;
-  height: 100%;
-}
-
-.begin, .alc {
   height: 100%;
 }
 
